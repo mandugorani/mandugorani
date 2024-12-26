@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**mandugorani/mandugorani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cpp
+#include <iostream>
+using namespace std;
 
-Here are some ideas to get you started:
+int main() {
+    cout << "Hello" << endl;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    while (true) {}
+    
+    cout << "Good bye" << endl;
+    return 123456789;
+}
+```
